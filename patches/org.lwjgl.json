@@ -59,8 +59,8 @@
                     "META-INF/"
                 ]
             },
-            "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.4-babric.1",
-            "url": "https://maven.glass-launcher.net/babric/",
+            "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.4+legacyfabric.9",
+            "url": "https://repo.legacyfabric.net/repository/legacyfabric",
             "natives": {
                 "linux": "natives-linux",
                 "osx": "natives-osx",
@@ -68,17 +68,17 @@
             }
         },
         {
-            "name": "org.lwjgl.lwjgl:lwjgl:2.9.4-babric.1",
-            "url": "https://maven.glass-launcher.net/babric/"
+            "name": "org.lwjgl.lwjgl:lwjgl:2.9.4+legacyfabric.9",
+            "url": "https://repo.legacyfabric.net/repository/legacyfabric"
         },
         {
-            "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.4-babric.1",
-            "url": "https://maven.glass-launcher.net/babric/"
+            "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.4+legacyfabric.9",
+            "url": "https://repo.legacyfabric.net/repository/legacyfabric"
         }
     ],
     "name": "LWJGL 2",
     "type": "release",
     "uid": "org.lwjgl",
-    "version": "2.9.4-babric.1",
+    "version": "2.9.4+legacyfabric.9",
     "volatile": true
 }
