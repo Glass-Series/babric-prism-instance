@@ -59,7 +59,7 @@
                     "META-INF/"
                 ]
             },
-            "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.4+legacyfabric.9",
+            "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.4+legacyfabric.8",
             "url": "https://repo.legacyfabric.net/repository/legacyfabric",
             "natives": {
                 "linux": "natives-linux",
@@ -68,17 +68,17 @@
             }
         },
         {
-            "name": "org.lwjgl.lwjgl:lwjgl:2.9.4+legacyfabric.9",
+            "name": "org.lwjgl.lwjgl:lwjgl:2.9.4+legacyfabric.8",
             "url": "https://repo.legacyfabric.net/repository/legacyfabric"
         },
         {
-            "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.4+legacyfabric.9",
+            "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.4+legacyfabric.8",
             "url": "https://repo.legacyfabric.net/repository/legacyfabric"
         }
     ],
     "name": "LWJGL 2",
     "type": "release",
     "uid": "org.lwjgl",
-    "version": "2.9.4+legacyfabric.9",
+    "version": "2.9.4+legacyfabric.8",
     "volatile": true
 }
