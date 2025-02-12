@@ -1,3 +1,5 @@
+# This is now merged with the main babric instance. There's no need to continue using this fork.
+
 Instance with b1.7.3 babric included for [PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) (should work on MultiMC aswell)
 
 # Usage
